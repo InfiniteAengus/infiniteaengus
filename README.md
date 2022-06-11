@@ -12,7 +12,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/infiniteaengus)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.b1620422bf2f1a5a)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/james-bell-468a16239/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://james-bell.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://infiniteaengus.github.io/)
   </div>
 
 </h1>
